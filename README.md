@@ -1,1 +1,3 @@
-![what](https://rule34.paheal.net/ext/home/counters/default/6.gif)![are](https://rule34.paheal.net/ext/home/counters/default/9.gif)![you](https://rule34.paheal.net/ext/home/counters/default/4.gif)![doing](https://rule34.paheal.net/ext/home/counters/default/2.gif)![herre](https://rule34.paheal.net/ext/home/counters/default/0.gif)
+<h2 allign="center">
+<img src="https://rule34.paheal.net/ext/home/counters/default/4.gif"><img src="https://rule34.paheal.net/ext/home/counters/default/2.gif"><img src="https://rule34.paheal.net/ext/home/counters/default/0.gif">
+</h2>
