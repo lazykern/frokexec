@@ -1,23 +1,26 @@
+
+<h3 align="center">links</h3>
 <p align="center">
-<img src="https://rule34.paheal.net/ext/home/counters/default/4.gif"><img src="https://rule34.paheal.net/ext/home/counters/default/2.gif"><img src="https://rule34.paheal.net/ext/home/counters/default/0.gif">
+  <a href="https://www.linkedin.com/in/phusitsom/">linkedin</a>
+  <a href="https://phusitsom.medium.com/">medium</a>
 </p>
 
-#### links
-[linkedin](https://www.linkedin.com/in/phusitsom/)
+<h3 align="center">social</h3>
+<p align="center">
+  <a href="https://twitter.com/phusitsom">twitter</a>
+  <a href="https://www.instagram.com/phusitsom/">instagram</a>
+</p>
 
-[medium](https://phusitsom.medium.com/)
+<h3 align="center">hobbies</h3>
+<p align="center">
+  <a
+    href="https://open.spotify.com/user/31oeqvpl2rtnpmmsz6lejmgsfc7i?si=Bbf7etqSQl-E-RU55_Tjqg&utm_source=copy-link"
+    >spotify</a
+  >
+  <a href="https://bandcamp.com/phusitsom">bandcamp</a>
+</p>
 
-#### social media
-[twitter](https://www.twitter.com/phusitsom)
-
-[instagram](https://www.instagram.com/phusitsom/) <sup>(why)</sup>
-
-#### hobbies
-[spotify](https://open.spotify.com/user/31oeqvpl2rtnpmmsz6lejmgsfc7i?si=Bbf7etqSQl-E-RU55_Tjqg&utm_source=copy-link)
-
-[bandcamp](https://bandcamp.com/phusitsom)
-
-#### preferences
-
-[dotfiles](https://gitlab.com/phusitsom/dotfiles)
-
+<h3 align="center">preferences</h3>
+<p align="center">
+  <a href="https://gitlab.com/phusitsom/dotfiles">dotfiles</a>
+</p>
