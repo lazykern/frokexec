@@ -6,3 +6,6 @@
 help
 </sub>
 </sub>
+
+- [dotfiles](https://gitlab.com/phusitsom/dotfiles)
+- [linktree](https://linktr.ee/phusitsom)
