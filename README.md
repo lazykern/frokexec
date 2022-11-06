@@ -1,1 +1,1 @@
-<p>im lazy, just check my <a href="https://linktr.ee/phusitsom">linktree<a></p>
+<p>im lazy. here, check my <a href="https://linktr.ee/phusitsom">linktree<a></p>
